@@ -1,0 +1,234 @@
+# ASP.NET MVC
+.vscode/
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.bak
+*.log
+
+# NuGet
+packages/
+*.nupkg
+*.pdb
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+
+# Visual Studio 2022
+.vscode/
+.vs/
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.sbr
+*.tlb
+*.tlh
+*.bak
+*.pdb
+*.ipch/
+*.ilk
+*.aps
+*.exp
+*.scc
+*.tlh
+*.bak
+*.user
+*.psess
+*.vsp
+*.vspx
+*.sap
+*.sln.docstates
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code specific files
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Visual Studio 2022
+.vscode/
+.vs/
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.sbr
+*.tlb
+*.tlh
+*.bak
+*.pdb
+*.ipch/
+*.ilk
+*.aps
+*.exp
+*.scc
+*.tlh
+*.bak
+*.user
+*.psess
+*.vsp
+*.vspx
+*.sap
+*.sln.docstates
+
+# Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+
+# .NET Sln with Visual Studio
+.vscode/
+.vs/
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.sbr
+*.tlb
+*.tlh
+*.bak
+*.pdb
+*.ipch/
+*.resharper
+*.resharper.user
+*.suo
+*.user
+*.psess
+*.vsp
+*.vspx
+*.sap
+*.sln.docstates
+
+# .NET Sln with Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+
+# Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+
+# .NET Sln with Visual Studio for Mac
+.vscode/
+.vs/
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.sbr
+*.tlb
+*.tlh
+*.bak
+*.pdb
+*.ipch/
+*.resharper
+*.resharper.user
+*.suo
+*.user
+*.psess
+*.vsp
+*.vspx
+*.sap
+*.sln.docstates
+
+# .NET Sln with Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+
+# Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+
+# .NET Sln with Visual Studio for Mac
+.vscode/
+.vs/
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.sbr
+*.tlb
+*.tlh
+*.bak
+*.pdb
+*.ipch/
+*.resharper
+*.resharper.user
+*.suo
+*.user
+*.psess
+*.vsp
+*.vspx
+*.sap
+*.sln.docstates
+
+# .NET Sln with Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
